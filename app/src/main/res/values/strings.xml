@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mojeez</string>
+    <string name="memory_test">اختبار الحفظ</string>
+    <string name="no">لا</string>
+    <string name="yes">نعم</string>
+    <string name="finish_test_message">هل أنت متأكد أنك حفظت الآية؟</string>
+</resources>
